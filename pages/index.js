@@ -9,7 +9,7 @@ export default function HomePage({ posts }) {
    return (
       <Layout page='Home' title='Home'>
          <main className='min-h-screen'>
-            <div className='[min-height:95vh] bg-[image:url("/assets/jaypatrickdev-gradient-bg-mobile.jpg")] md:bg-[image:url("/assets/jaypatrickdev-gradient-bg-desktop.jpg")] bg-cover'>
+            <div className='[min-height:1000px] md:[min-height:95vh] bg-[image:url("/assets/jaypatrickdev-gradient-bg-mobile.jpg")] md:bg-[image:url("/assets/jaypatrickdev-gradient-bg-desktop.jpg")] bg-cover'>
                <section className='flex flex-col lg:items-center py-20 lg:py-12 lg:flex-row lg:justify-center lg:mt-0 lg:max-w-5xl mx-auto absolute inset-0'>
                   <div className='flex flex-col px-6 pb-4 sm:pb-10 lg:pb-0'>
                      <div className='inline-flex justify-center align-middle flex-initial mb-2 lg:mb-0 lg:hidden'>
