@@ -61,11 +61,10 @@ export default function HomePage({ posts }) {
                      <p className='font-source-serif-pro-regular text-xl text-light mb-14 sm:text-lg sm:leading-10 pt-5'>
                         I have over 5 years of professional experience
                         developing for small and enterprise sized businesses.
-                        I&apos;m most comfortable writing frontend code but will
-                        jump in other areas as I&apos;m always learning
-                        different parts of software development. I like working
-                        in tech focused teams and believe in developing great
-                        soft skills along the way.
+                        I&apos;m most comfortable writing frontend code but
+                        I&apos;m always learning different parts of software
+                        development. I like working in tech focused teams and
+                        believe in developing great soft skills along the way.
                      </p>
                      <div>
                         <a
