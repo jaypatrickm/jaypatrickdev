@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+   font-family: 'SourceSerifPro-Bold';
+   src: url('../public/fonts/source_serif_pro/SourceSerifPro-Bold.ttf');
+}
+@font-face {
+   font-family: 'SourceSerifPro-BoldItalic';
+   src: url('../public/fonts/source_serif_pro/SourceSerifPro-BoldItalic.ttf');
+}
+@font-face {
+   font-family: 'SourceSerifPro-Regular';
+   src: url('../public/fonts/source_serif_pro/SourceSerifPro-Regular.ttf');
+}
+@font-face {
+   font-family: 'SourceSerifPro-Italic';
+   src: url('../public/fonts/source_serif_pro/SourceSerifPro-Italic.ttf');
+}
+@font-face {
+   font-family: 'SourceSerifPro-SemiBold';
+   src: url('../public/fonts/source_serif_pro/SourceSerifPro-SemiBold.ttf');
+}
+@font-face {
+   font-family: 'SourceSerifPro-SemiBoldItalic';
+   src: url('../public/fonts/source_serif_pro/SourceSerifPro-SemiBoldItalic.ttf');
+}
