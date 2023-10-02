@@ -66,12 +66,12 @@ export default function AboutPage() {
                      </section>
                      <section className='prose prose-xl font-source-serif-pro-regular mx-auto max-w-2xl px-6 pt-10 pb-14'>
                         <p>
-                           I&apos;m Jaypatrick Manalansan, and I like developing
+                           I&apos;m Jay Manalansan, and I love developing
                            websites to help people do things.{' '}
                         </p>
                         <p>
-                           I&apos;m currently living in Oxnard, California, with
-                           my partner and two awesome Siberian huskies.
+                           I&apos;m currently living in Tulsa, Oklahoma, with my
+                           partner and two awesome Siberian huskies.
                         </p>
 
                         <p>

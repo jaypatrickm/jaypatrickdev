@@ -42,33 +42,29 @@ export default function HomePage({ posts }) {
                         </span>
                         <span className='lg:flex-1'>jaypatrickm@gmail.com</span>
                      </a>
-                     <a
-                        href='https://github.com/jaypatrickm'
-                        target='_blank'
-                        rel='noreferrer'
-                        className='font-source-serif-pro-bold text-lg text-orange-100 hover:text-orange-200 hover:cursor-pointer text-center'
-                     >
-                        Github
-                     </a>
                   </div>
                   <div className='px-6 md:mx-auto md:pt-3 text-left lg:px-9 lg:ml-6 max-w-2xl'>
                      <h1 className='font-source-serif-pro-bold text-3xl text-light sm:mb-2 lg:[font-size:2.9rem] pb-2'>
-                        Jaypatrick Manalansan
+                        Jay Manalansan
                      </h1>
                      <h2 className='font-source-serif-pro-bold-italic text-2xl text-orange-100 mb-2 sm:[font-size:2.15rem]'>
-                        Software Developer
+                        Web Developer
                      </h2>
-                     <p className='font-source-serif-pro-regular text-xl text-light mb-14 sm:text-lg sm:leading-10 pt-5'>
-                        I have over 5 years of professional experience
-                        developing for small and enterprise sized businesses.
-                        I&apos;m most comfortable writing frontend code but
-                        I&apos;m always learning different parts of software
-                        development. I like working in tech focused teams and
-                        believe in developing great soft skills along the way.
+                     <p className='font-source-serif-pro-regular text-xl text-light mb-14 sm:text-lg sm:leading-7 pt-5'>
+                        Web Developer with 8 years of experience in creating
+                        dynamic and user-friendly web solutions. Skilled in
+                        front-end development with a solid foundation in HTML,
+                        JavaScript, and CSS. Currently focusing on expanding my
+                        skills with React, Next.js, Node.js, and Tailwind CSS.
+                        Looking to leverage my diverse web and software
+                        development experience to contribute as a front-end,
+                        web, or software developer in a forward-thinking
+                        company. I&apos;m always ready to learn new technology
+                        to help out my team or client in any way possible.
                      </p>
                      <div>
                         <a
-                           href='/docs/JaypatrickManalansan_Resume_2022.pdf'
+                           href='/docs/Jay Manalansan Resume.pdf'
                            className='font-source-serif-pro-bold text-lg text-light bg-dark hover:bg-slate-400 px-6 py-3 border-transparent flex-inline items-center rounded-full inline-block'
                            target='_blank'
                            download
